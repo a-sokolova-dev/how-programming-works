@@ -4,9 +4,9 @@
 
 ## SEF1
 
-- [ ] [Функции, стрелочные функции, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
+- [x] [Функции, стрелочные функции, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
 - [x] [Частичное применение и каррирование в JavaScript](https://youtu.be/ND8KQ5xjk7o)
-  - [ ] [Exercises](./PartialApplication/)
+  - [x] [Exercises](./PartialApplication/)
 - [ ] [Функции высшего порядка, колбеки, события на JavaScript](https://youtu.be/1vqATwbGHnc)
 - [ ] [Антипаттерны общие для всех парадигм](https://youtu.be/NMUsUiFokr4)
 - [ ] [Чеининг функций и объектов, обработка ошибок в JavaScript](https://youtu.be/PfuEfIiLX34)
