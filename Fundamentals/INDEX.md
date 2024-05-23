@@ -8,6 +8,7 @@
 - [x] [Частичное применение и каррирование в JavaScript](https://youtu.be/ND8KQ5xjk7o)
   - [x] [Exercises](./PartialApplication/)
 - [x] [Функции высшего порядка, колбеки, события на JavaScript](https://youtu.be/1vqATwbGHnc)
+  - [x] [Exercises HOF](./HigherOrderFunctions/)
 - [ ] [Чеининг функций и объектов, обработка ошибок в JavaScript](https://youtu.be/PfuEfIiLX34)
 - [ ] [Рекурсия: косвенная и хвостовая, стек, выход](https://youtu.be/W2skCjIgVKE)
 - [ ] [Итерирование, циклы и итераторы в JavaScript](https://youtu.be/lq3b5_UGJas)
