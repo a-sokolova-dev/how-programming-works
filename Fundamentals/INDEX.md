@@ -49,6 +49,9 @@
 - [ ] [Итераторы и асинхронные итераторы](https://youtu.be/rBGFlWpVpGs)
 - [ ] [Перечислимый тип (enum) в JavaScript и TypeScript](https://youtu.be/BXiKebOIAGI)
 - [ ] [Дженерики и обобщенное программирование](https://youtu.be/r6W2z3DQhoI)
-- [ ] [Тестирование: юниттесты с примерами](https://youtu.be/CszugIag2TA)
+- [x] [Тестирование: юниттесты с примерами](https://youtu.be/CszugIag2TA)
 - [ ] [Тестирование: системное и интеграционное тестирование](https://youtu.be/OuKu_6H_6gE)
 - [ ] [Интроспекция и рефлексия в JavaScript](https://youtu.be/yvW1PjUVeM0)
+
+## Misc
+- [ ] [Измерение производительности кода и оптимизация в JavaScript и Node.js](https://www.youtube.com/watch?v=sanq2X7Re8o)
